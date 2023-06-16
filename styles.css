@@ -1,0 +1,13 @@
+.place-img{
+    height: 200px;
+    width: 100%;
+}
+
+.imgsz{
+    width: 490px;
+    height: 330px;
+}
+
+.place-div{
+    width: 90%; margin-left: 5%;
+}
